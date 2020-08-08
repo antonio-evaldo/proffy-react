@@ -4,13 +4,13 @@
   <img src="https://github.com/antonio-evaldo/proffy-react/blob/master/web/src/assets/images/landing.svg" height="300" />
 </p>
 
-## About
+## :memo: About
 
 :warning: This project is under construction.
 
 Proffy is a full-stack React application built during the NLW #02 by Rocketseat.
 
-## Run this project
+## :computer: Run this project
 
 ### Run Web Project
 
