@@ -24,11 +24,11 @@ function TeacherList() {
       params: {
         subject,
         week_day,
-        time
+        time,
       }
-    })
+    });
 
-    setTeachers(response.data);    
+    setTeachers(response.data);
   }
 
   return (
