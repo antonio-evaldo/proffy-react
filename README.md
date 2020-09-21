@@ -6,8 +6,6 @@
 
 ## :memo: About
 
-:warning: This project is under construction.
-
 Proffy is a full-stack React application built during the NLW #02 by Rocketseat.
 
 ## :computer: Run this project
@@ -15,7 +13,7 @@ Proffy is a full-stack React application built during the NLW #02 by Rocketseat.
 ### Run Web Project
 
 ```bash
-# Go to web folder (execute command line below considering you're already at proffy-react folder)
+# Go to web folder
 $ cd web
 
 # Install Dependencies (only the first time)
@@ -29,7 +27,7 @@ The project should be opened automatically at http://localhost:3000/ (if not, ju
 ### Run Server
 
 ```bash
-# Go to server folder (execute command line below considering you're already at proffy-react folder)
+# Go to server folder
 $ cd server
 
 # Install Dependencies (only the first time)
