@@ -22,7 +22,7 @@ $ yarn install
 # Run Aplication (every time you want to enter the application)
 $ yarn start
 ```
-The project should be opened automatically at http://localhost:3000/ (if not, just acces this address).
+The project should be opened automatically at http://localhost:3000/ (if not, just access this address).
 
 ### Run Server
 
